@@ -1,0 +1,6 @@
+Path	Description	File status
+data/metadata/sample_map	Sample ID and group labels	Supplied
+data/metadata/sample_info.xlsx	"Sample-level demographic, clinical, sequencing, and follow-up metadata"	Supplied
+data/metadata/fungi.profile	Fungal species-level abundance matrix	Supplied
+data/metadata/fungi.profile.genus	Fungal genus-level abundance matrix	Supplied
+data/metadata/bacteria_species.profile	Bacterial species-level abundance matrix	Supplied
